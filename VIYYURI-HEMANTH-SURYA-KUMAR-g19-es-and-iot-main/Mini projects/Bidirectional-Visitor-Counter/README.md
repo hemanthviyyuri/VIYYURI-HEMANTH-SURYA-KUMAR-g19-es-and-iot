@@ -250,5 +250,3 @@ Through this project, I gained practical experience in:
 | Sensors | PIR Motion Sensors |
 
 ---
-
-**Developed as an Embedded Systems project to demonstrate Bare-Metal C programming, hardware register manipulation, sensor interfacing, and bidirectional visitor detection.**
