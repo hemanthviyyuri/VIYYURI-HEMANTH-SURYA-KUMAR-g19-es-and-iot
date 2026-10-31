@@ -29,7 +29,7 @@ A 16×2 LCD displays the visitor count and detection status, while a piezo buzze
 
 The following circuit was designed and simulated using Tinkercad Circuits.
 
-![Bidirectional Visitor Counter Circuit](circuit/circuit-diagram.png)
+![Bidirectional Visitor Counter Circuit](circuit-diagram.png)
 
 ## 4. Hardware Components
 
