@@ -22,7 +22,7 @@ The system detects different button-press patterns and controls the RGB LED acco
 | 2 | RGB LED (Common Cathode) | 1 |
 | 3 | Push Button | 1 |
 | 4 | Resistors for RGB LED | 3 |
-| 5 | 10kΩ Resistor (Pull-down) | 1 |
+| 5 | 1kΩ Resistor (Pull-down) | 1 |
 | 6 | Breadboard | 1 |
 | 7 | Jumper Wires | As required |
 
